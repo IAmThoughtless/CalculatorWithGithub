@@ -3,7 +3,7 @@
 public class main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        System.out.printf("Hello and welcome!");
+        System.out.println("Hello and welcome!");
 
         for (int i = 1; i <= 5; i++) {
 
